@@ -6,7 +6,7 @@ load_dotenv()
 openai_api_key = os.environ['OpenAI_API_Key']
 client = OpenAI(api_key=openai_api_key)
 
-for i in range(2):
+for i in range(10):
     print(i)
     response = client.chat.completions.create(
     model="gpt-4o-mini",

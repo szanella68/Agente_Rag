@@ -1,4 +1,4 @@
-# Creazione e Integrazione di un Sistema RAG in un Agente AI v2
+# Creazione e Integrazione di un Sistema RAG in un Agente AI v3
 
 Questo tutorial ti guiderà nella creazione di un sistema RAG (Retrieval Augmented Generation) e nella sua integrazione con un agente AI, basandosi su due video YouTube.
 
