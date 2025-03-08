@@ -22,4 +22,3 @@ def cerca_mail(query):
 
 """out = cerca_mail("preventivo")
 print(out)"""
-    

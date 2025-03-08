@@ -33,7 +33,7 @@ def search_emails(query: str) -> List[Dict]:
 
 # Configurazione delle chiavi API
 OPENAI_API_KEY = openai_api_key  # Configura questo in Streamlit Secrets
-ASSISTANT_ID = "asst_ospySOMp9lqoJ42gq1wtosqQ"      # Il tuo Assistant ID
+ASSISTANT_ID = "asst_hXAeeYgj9ek2HDfTNxFX7yPX"      # Il tuo Assistant ID
 
 # Inizializzazione del client OpenAI
 client = openai.Client(api_key=OPENAI_API_KEY)
