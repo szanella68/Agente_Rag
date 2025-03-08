@@ -1,0 +1,1 @@
+streamlit run agente_ai.py
